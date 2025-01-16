@@ -1,0 +1,9 @@
+{
+  "username_valid" : "Admin",
+  "password_valid" : "admin123",
+  "username_invalid": "admin",
+  "password_invalid": "admin223",
+  "employee_Username": "kerolosypised",
+  "new_employee_password" : "012345678910x",
+  "confirm_employee_password":"012345678910x"
+}

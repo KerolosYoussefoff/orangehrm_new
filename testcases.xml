@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="OrangeHRM Test Suite">
+    <test name="Test Suite 1">
+        <classes>
+            <!-- Add Test1 class to the suite -->
+            <class name="orangeHRM_testcases.TC01_ValidLogin"/>
+            <!-- Add Test2 class to the suite -->
+            <class name="orangeHRM_testcases.TC02_InvalidLogin"/>
+        </classes>
+    </test>
+    <test name="Test Suite 2">
+        <classes>
+            <!-- Add Test3 class to the suite -->
+            <class name="orangeHRM_testcases.TC03_Login_with_Empty_Fields"/>
+            <!-- Add Test4 class to the suite -->
+            <class name="orangeHRM_testcases.TC04_Add_a_New_User"/>
+        </classes>
+    </test>
+</suite>
