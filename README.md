@@ -1,0 +1,1 @@
+![Uploading mindmap.png…]()
