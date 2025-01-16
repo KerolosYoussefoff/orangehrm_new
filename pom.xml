@@ -67,11 +67,11 @@
                                 <artifactId>aspectjweaver</artifactId>
                                 <version>${aspectjweaver.version}</version>
                             </dependency>
-                            <dependency>
-                                <groupId>org.apache.maven.surefire</groupId>
-                                <artifactId>surefire-testng</artifactId>
-                                <version>${surefire-testng.version}</version>
-                            </dependency>
+<!--                            <dependency>-->
+<!--                                <groupId>org.apache.maven.surefire</groupId>-->
+<!--                                <artifactId>surefire-testng</artifactId>-->
+<!--                                <version>${surefire-testng.version}</version>-->
+<!--                            </dependency>-->
                         </dependencies>
                         <configuration>
                             <systemPropertyVariables>
